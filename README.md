@@ -2,6 +2,22 @@
 
 # IoT and Robotics-Based Sewage Manhole and Pipeline Cleaning Robot
 
+## 🏆 Smart India Hackathon (SIH) Project
+
+This repository contains the technical development and supporting resources for our Smart India Hackathon (SIH) project.
+
+It documents the development of the proposed robotic system through:
+
+- 🤖 Robotic prototype development
+- 📐 CAD design
+- 🔌 Electronic circuit design
+- 💻 Embedded software
+- 📡 Wireless control system
+- 📷 Real-time inspection using ESP32-CAM
+- 🧪 Prototype testing and development
+
+The repository serves as a technical reference for the project presentation and demonstrates the hardware, software, mechanical design, and implementation of the proposed solution.
+
 An IoT and robotics-based robotic system developed for the **inspection, cleaning, and maintenance of sewage manholes and underground pipelines**.
 
 The system combines a tracked mobile robot, cleaning mechanism, lead-screw mechanism, wireless control, and an ESP32-CAM-based real-time inspection system.
@@ -319,8 +335,10 @@ The camera can be used to:
 
 ## 🤖 Prototype
 
+### Prototype View 1
 ![Prototype](./orginal_p_i.jpeg)
 
+### Prototype View 2
 ![Prototype](./original_p_if.jpeg)
 
 

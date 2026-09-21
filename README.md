@@ -61,3 +61,31 @@ The system combines robotic movement, cleaning mechanisms, a lead-screw mechanis
                          │
                          ▼
                 Real-Time Inspection
+```
+## 🤖 Prototype
+
+![Prototype](./orginal_p_i.jpeg)
+
+![Prototype](./original_p_if.jpeg)
+
+## 📐 CAD Design
+
+### Front View
+![CAD Front](./CAD_Design_Front.png)
+
+### Isometric View
+![CAD Isometric](./CAD_Design_Iso.png)
+
+### Side View
+![CAD Side](./CAD_Design_Side.png)
+
+### Top View
+![CAD Top](./CAD_Design_Top.png)
+
+## 🔌 Circuit Diagrams
+
+### PCL Transmitter
+![Transmitter Circuit](./circuit_image_tra.png)
+
+### PCL Receiver
+![Receiver Circuit](./circuit_image_rece.png)
